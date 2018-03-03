@@ -4,6 +4,11 @@
       "id": 1,
       "title": "Post One",
       "body": "This is post one."
+    },
+    {
+      "title": "10X Rule",
+      "body": "10X Rule.",
+      "id": 2
     }
   ]
 }
